@@ -2,7 +2,7 @@
 
 Question 1: Original code
 
-Question 1 output: includes output and comments
+Question 1 output: includes output and comments. Download and open in pdf. 
 
 Question 2: code
 
