@@ -13,3 +13,5 @@ sgd: a function to perform stochastic gradient estimation.
 Question 3 code
 
 Question 3 output: includes output and comments
+
+genPiAppxDigits: returns the time series given the number of digits and accuracy level
